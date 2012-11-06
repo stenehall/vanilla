@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+/**
+ * You know that you want these
+ * 
+ * sass --watch assets/scss/style.scss:assets/css/style.min.css --style compressed
+ * sass --watch assets/scss/style.scss:assets/css/style.min.css --style expanded
+ */
+
+@import "normalize";
